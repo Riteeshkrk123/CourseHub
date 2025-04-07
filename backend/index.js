@@ -634,7 +634,7 @@ async function run() {
 
                 await emailSend(courseInfo?.email, {
                     subject: 'Payment Confirmation',
-                    message: `<h3>Dear,</h3> \n <p>Thank you for your Payment.  Your courses have been successfully enrolled.</p>\n\n <p>Transaction ID: ${courseInfo?.transactionId}.</p> \n\n <p>Best regard,</p>\n <p>Course Haven Team</p>`
+                    message: `<h3>Dear,</h3> \n <p>Thank you for your Payment.  Your courses have been successfully enrolled.</p>\n\n <p>Transaction ID: ${courseInfo?.transactionId}.</p> \n\n <p>Best regard,</p>\n <p>Course Hub Team</p>`
                 })
 
 

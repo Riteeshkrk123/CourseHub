@@ -1,0 +1,14 @@
+input,
+select {
+  color: #ffffff;
+}
+
+input::placeholder,
+select::placeholder {
+  color: #a0aec0;
+}
+
+input:focus,
+select:focus {
+  outline: none;
+}

@@ -1,0 +1,13 @@
+.coll-12{
+    width: 100%;
+    flex: 0 0 auto;
+}
+
+.coll-auto{
+    width: auto;
+    flex: 0 0 auto;
+}
+
+.profile-des-container{
+    flex: 1 0 0%
+}
